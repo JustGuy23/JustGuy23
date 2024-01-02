@@ -1,8 +1,8 @@
-- 👋 Hi, I’m JUSTGuy
-- 👀 I'm looking for jar of cookies
-- 🌱 I’m currently learning python programming ,back-end and devops
-- 💞️ I’m looking to collaborate on paning pancakes)
-- 📫 gfif1976zzz@gmail.com it all that you need
+Hi , im JustGuy
+I'm junior system administrator ( currently learning Devops practices and web development using Python
+my linkedin page : https://www.linkedin.com/in/poul-prian-1a9633232/
+If you want to contact me please use link above and hope i can help you
+See you space cowboy!
 
 <!---
 JustGuy23/JustGuy23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
