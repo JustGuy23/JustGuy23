@@ -1,7 +1,7 @@
-Hi , im JustGuy
-I'm junior system administrator ( currently learning Devops practices and web development using Python
-my linkedin page : https://www.linkedin.com/in/poul-prian-1a9633232/
-If you want to contact me please use link above and hope i can help you
+Hi , im JustGuy \n
+I'm junior system administrator ( currently learning Devops practices and web development using Python \n
+my linkedin page : https://www.linkedin.com/in/poul-prian-1a9633232/ \n
+If you want to contact me please use link above and hope i can help you \n
 See you space cowboy!
 
 <!---
